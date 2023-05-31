@@ -1,1 +1,1 @@
-# hello i am Studen computer science
+# hello i am Student computer science
